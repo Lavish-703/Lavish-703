@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development, Data Structures and Algorithms.**
 
-- 📫 How to reach me **jiyalavish123@gmail.com**
+- 📫 How to reach me **lavishjain307@gmail.com**
 
 - ⚡ Fun fact **CS is cool!**
 
